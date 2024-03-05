@@ -10,12 +10,12 @@
 
 ### Programming languages of choice:
 
-<img src="https://skills.thijs.gg/icons?i=c++,java,php,python" alt="Programming languages" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=c,java,php,python" alt="Programming languages" height="40"/>
 
 
 ### Some other tools I enjoy using:
 
-<img src="https://skills.thijs.gg/icons?i=linux,vim,idea,gradle,git,github" alt="Tooling & other" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=linux,idea,gradle,git,github" alt="Tooling & other" height="40"/>
 
 ## ✉️ Contact
 
